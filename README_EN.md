@@ -13,7 +13,7 @@ Automatic ID continuation for Responses API providers. Reuse server-stored conte
 
 ## Install
 
-**DSH 0.2.1-rc.3** · Node 22.19+
+**DSH 0.2.1-rc.2 – 0.2.1** · Node 22.19+
 
 Paste this URL into **Plugins → Add plugin**:
 
